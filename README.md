@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanthokale
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning BCS third year
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/aman-thokale-b68504224
 - 📫 How to reach me amanthokale1137@gmail.com
 
