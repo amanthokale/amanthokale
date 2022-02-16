@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanthokale
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning MERN Stack
+- 👀 Interested in Full Stack Development.
+- 🌱 I’m currently pursuing BCS
 - 💞️ I’m looking to collaborate on LinkedIn https://www.linkedin.com/in/aman-thokale-b68504224
 - 📫 How to reach me amanthokale1137@gmail.com
 
